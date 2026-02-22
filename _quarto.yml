@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Robin Carvajal"
+  navbar:
+    background: "#0b1f3a"   # pick any hex color
+    foreground: "#ffffff"   # text/icon color
+    left:
+      - href: cv.qmd
+        text: CV
+      - href: projects.qmd
+        text: Projects
+      - href: courses.qmd
+        text: Courses
+    right:
+      - icon: github
+        href: https://github.com/RobinCarvajal
+      - icon: linkedin
+        href: https://www.linkedin.com/in/robin-carvajal-9ba826284/
+
+format:
+  html:
+    theme: journal
+    toc: false
+    css: styles.css

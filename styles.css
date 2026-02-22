@@ -1,0 +1,6 @@
+.quarto-title-block .title {
+  text-align: center;
+}
+
+.cv-row { display:flex; justify-content:space-between; gap:1rem; }
+.cv-date { text-align:right; white-space:nowrap; }

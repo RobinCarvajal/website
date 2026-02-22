@@ -1,0 +1,24 @@
+---
+title: "Available Courses"
+---
+
+## Bioinformatica
+
+### Bioinformatica en R
+
+Pendiente...
+
+### Bioinformatica en Linea de Comandos y Analysis Genomico
+
+Listo. Impartido en Classroom. [Link](https://classroom.google.com/c/NzczNzg5MzY2OTcx)
+
+### Analysis de datos de tecnologias Single-Cell y Espaciales
+
+Pendiente...
+
+
+## Genetica 
+
+### Fundamentos de la Genetica
+
+Listo, pero no esta en plataforma web...

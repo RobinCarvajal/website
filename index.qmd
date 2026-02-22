@@ -1,0 +1,44 @@
+---
+title: "Welcome"
+page-layout: full
+---
+
+::: {.grid .align-items-center}
+::: {.g-col-12 .g-col-md-7}
+
+# Robin Carvajal
+
+I’m a bioinformatician at the University of Glasgow, specialising in single-cell and spatial transcriptomics with a focus on inflammation and tissue organisation. I analyse CosMx SMI datasets and build reproducible, multi-sample workflows covering quality control, integration, cell-type annotation, differential expression, and pathway enrichment, translating results into clear, testable biological insights for wet-lab collaborators.
+
+I hold a BSc (Hons) in Genetics (2019–2023) and an MSc in Bioinformatics (2023–2024), both from the University of Glasgow, and I draw on a strong foundation in molecular and cellular biology to work across diverse life-science questions. Alongside my research, I’ve taught R, Python, and shell scripting.
+
+I’m also interested in applying AI and machine learning to health research.
+
+**Current interests:** spatial neighbourhoods/microenvironments, differential expression & pathway analysis, and robust pipelines for multi-sample studies.
+
+
+:::
+
+::: {.g-col-12 .g-col-md-5}
+
+<!-- Replace the path below with your real photo -->
+![](images/profile.jpeg){width=320 height=320 .rounded-circle .shadow}
+
+*Me!*
+
+:::
+:::
+
+---
+
+## What I do
+
+- **Spatial transcriptomics analysis** (CosMx and related platforms)
+- **Workflow / pipeline development** (reproducible, multi-sample)
+- **Differential expression and enrichment** (cell-type and region-level)
+- **Clear reporting** for wet lab collaborators
+
+## Contact
+
+- GitHub: <https://github.com/RobinCarvajal>
+- E-mail: <Robin.Carvajal@glasgow.ac.uk>

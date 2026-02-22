@@ -1,0 +1,37 @@
+---
+title: "Projects"
+---
+
+## Tools
+
+### SubsetMask
+
+A lightweight toolkit for interactive, coordinate-based subsetting and annotation of spatial transcriptomics data.
+
+[Manuscript](https://example.com) (pending) • 
+[Data](https://example.com) (pending) • 
+[Code](https://github.com/RobinCarvajal/SubsetMask) • 
+[Documentation](https://robincarvajal.github.io/SubsetMask/)
+
+## Spatial Transcriptomics
+
+### Cystic Fibrosis
+
+Study of airway lung explants using Spatially Resolved Transcriptomics techonology (CosMx).
+
+[Manuscript](https://example.com) (pending) • 
+[Data](https://example.com) (pending) • 
+[Code](https://github.com/RobinCarvajal) (pending)
+
+
+### Neuroinflammation 
+
+Study of TLR7-induced nueroinflammation in mice. CosMx technology. 
+
+[Manuscript](https://www.biorxiv.org/content/10.1101/2025.04.25.650583v1) • 
+[Data](https://example.com) (pending) • 
+[Code](https://github.com/RobinCarvajal/cosmx_cavanagh)
+
+
+
+

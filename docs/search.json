@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Professional Experience\nEducation\nPrices and awards\nPublications\n\n\n\nBioinformatician\n\n\n\nSchool of Infection & Immunity, University of Glasgow\n\n\n2024–Present\n\n\n\nDeveloped advanced pipelines and methods for single-cell and spatial transcriptomics datasets (CosMx), tailored to study neuroinflammation.\nInvestigated gene expression differences caused by inflammation at the cell-type, regional, and niche levels using cutting-edge spatial transcriptomics technology.\nCollaborated with wet lab researchers to ensure high-quality outputs and integrative analysis of small, high-value tissue samples.\n\nDemonstrator in Bioinformatics\n\n\n\nBritish Society for Immunology\n\n\n2025–Present\n\n\n\n\n\nSchool of Infection & Immunity, University of Glasgow\n\n\n2023–2024\n\n\n\nMentored students in R and Python programming, Linux shell scripting, and omics data analysis.\nConducted tutorials on data visualization and statistical analysis for bioinformatics research.\n\nIntern in Genetics Research\n\n\n\nSchool of Molecular Biosciences, University of Glasgow\n\n\n09/2022–03/2023\n\n\n\nAnalysed genomic structural variations using long-read sequencing technologies, including Oxford Nanopore NGS.\nLeveraged genetic expertise to provide unique insights into sequencing data, connecting findings to broader biological implications.\n\n\n\n\n\n\n\nMSc. Bioinformatics. University of Glasgow\n\n\n2023–2024\n\n\nDistinction\n\n\n\nBSc. Genetics. University of Glasgow\n\n\n2019–2023\n\n\nHonours of the Second Class (division I)\n\n\n\n\n\n\nSenescyt\n\n\n2019–2023\n\n\nEcuadorian Government Full Scholarship for scoring in the top 1% on Ecuador’s National Higher Education Entrance Exam (worth USD 250K) to study at the University of Glasgow.\n\n\n\n\nGardner-Stephen, K., Carvajal-Quisilema, R.J., et al. (2025) Neuroinflammation driven by TLR7 activation in mice [Preprint]. bioRxiv. doi:10.1101/2025.04.25.650583v1. URL\nCarvajal-Quisilema, R. J., et al. (2026). Expansion of lymphoid structures in end-stage cystic fibrosis lung revealed by spatial transcriptomics [Manuscript in preparation]\nGray, R., Carvajal-Quisilema, R. J. (2026). Cellular sources of calprotectin extend beyond neutrophils, revealed by spatial transcriptomics [Manuscript in preparation]\nCarvajal-Quisilema, R. J. (2026). SubsetMask: a lightweight toolkit for interactive, coordinatebased sub-setting and annotation of spatial transcriptomics data [Manuscript in preparation]. URL"
+  },
+  {
+    "objectID": "cv.html#profesional-experience",
+    "href": "cv.html#profesional-experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Bioinformatician\n\n\n\nSchool of Infection & Immunity, University of Glasgow\n\n\n2024–Present\n\n\n\nDeveloped advanced pipelines and methods for single-cell and spatial transcriptomics datasets (CosMx), tailored to study neuroinflammation.\nInvestigated gene expression differences caused by inflammation at the cell-type, regional, and niche levels using cutting-edge spatial transcriptomics technology.\nCollaborated with wet lab researchers to ensure high-quality outputs and integrative analysis of small, high-value tissue samples.\n\nDemonstrator in Bioinformatics\n\n\n\nBritish Society for Immunology\n\n\n2025–Present\n\n\n\n\n\nSchool of Infection & Immunity, University of Glasgow\n\n\n2023–2024\n\n\n\nMentored students in R and Python programming, Linux shell scripting, and omics data analysis.\nConducted tutorials on data visualization and statistical analysis for bioinformatics research.\n\nIntern in Genetics Research\n\n\n\nSchool of Molecular Biosciences, University of Glasgow\n\n\n09/2022–03/2023\n\n\n\nAnalysed genomic structural variations using long-read sequencing technologies, including Oxford Nanopore NGS.\nLeveraged genetic expertise to provide unique insights into sequencing data, connecting findings to broader biological implications."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "MSc. Bioinformatics. University of Glasgow\n\n\n2023–2024\n\n\nDistinction\n\n\n\nBSc. Genetics. University of Glasgow\n\n\n2019–2023\n\n\nHonours of the Second Class (division I)"
+  },
+  {
+    "objectID": "cv.html#prices-and-awards",
+    "href": "cv.html#prices-and-awards",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Senescyt\n\n\n2019–2023\n\n\nEcuadorian Government Full Scholarship for scoring in the top 1% on Ecuador’s National Higher Education Entrance Exam (worth USD 250K) to study at the University of Glasgow."
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Gardner-Stephen, K., Carvajal-Quisilema, R.J., et al. (2025) Neuroinflammation driven by TLR7 activation in mice [Preprint]. bioRxiv. doi:10.1101/2025.04.25.650583v1. URL\nCarvajal-Quisilema, R. J., et al. (2026). Expansion of lymphoid structures in end-stage cystic fibrosis lung revealed by spatial transcriptomics [Manuscript in preparation]\nGray, R., Carvajal-Quisilema, R. J. (2026). Cellular sources of calprotectin extend beyond neutrophils, revealed by spatial transcriptomics [Manuscript in preparation]\nCarvajal-Quisilema, R. J. (2026). SubsetMask: a lightweight toolkit for interactive, coordinatebased sub-setting and annotation of spatial transcriptomics data [Manuscript in preparation]. URL"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A lightweight toolkit for interactive, coordinate-based subsetting and annotation of spatial transcriptomics data.\nManuscript (pending) • Data (pending) • Code • Documentation"
+  },
+  {
+    "objectID": "projects.html#tools",
+    "href": "projects.html#tools",
+    "title": "Projects",
+    "section": "",
+    "text": "A lightweight toolkit for interactive, coordinate-based subsetting and annotation of spatial transcriptomics data.\nManuscript (pending) • Data (pending) • Code • Documentation"
+  },
+  {
+    "objectID": "projects.html#spatial-transcriptomics",
+    "href": "projects.html#spatial-transcriptomics",
+    "title": "Projects",
+    "section": "Spatial Transcriptomics",
+    "text": "Spatial Transcriptomics\n\nCystic Fibrosis\nStudy of airway lung explants using Spatially Resolved Transcriptomics techonology (CosMx).\nManuscript (pending) • Data (pending) • Code (pending)\n\n\nNeuroinflammation\nStudy of TLR7-induced nueroinflammation in mice. CosMx technology.\nManuscript • Data (pending) • Code"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Available Courses",
+    "section": "",
+    "text": "Pendiente…\n\n\n\nListo. Impartido en Classroom. Link\n\n\n\nPendiente…"
+  },
+  {
+    "objectID": "courses.html#bioinformatica",
+    "href": "courses.html#bioinformatica",
+    "title": "Available Courses",
+    "section": "",
+    "text": "Pendiente…\n\n\n\nListo. Impartido en Classroom. Link\n\n\n\nPendiente…"
+  },
+  {
+    "objectID": "courses.html#genetica",
+    "href": "courses.html#genetica",
+    "title": "Available Courses",
+    "section": "Genetica",
+    "text": "Genetica\n\nFundamentos de la Genetica\nListo, pero no esta en plataforma web…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "I’m a bioinformatician at the University of Glasgow, specialising in single-cell and spatial transcriptomics with a focus on inflammation and tissue organisation. I analyse CosMx SMI datasets and build reproducible, multi-sample workflows covering quality control, integration, cell-type annotation, differential expression, and pathway enrichment, translating results into clear, testable biological insights for wet-lab collaborators.\nI hold a BSc (Hons) in Genetics (2019–2023) and an MSc in Bioinformatics (2023–2024), both from the University of Glasgow, and I draw on a strong foundation in molecular and cellular biology to work across diverse life-science questions. Alongside my research, I’ve taught R, Python, and shell scripting.\nI’m also interested in applying AI and machine learning to health research.\nCurrent interests: spatial neighbourhoods/microenvironments, differential expression & pathway analysis, and robust pipelines for multi-sample studies.\n\n\n\n\nMe!"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Welcome",
+    "section": "What I do",
+    "text": "What I do\n\nSpatial transcriptomics analysis (CosMx and related platforms)\nWorkflow / pipeline development (reproducible, multi-sample)\nDifferential expression and enrichment (cell-type and region-level)\nClear reporting for wet lab collaborators"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Welcome",
+    "section": "Contact",
+    "text": "Contact\n\nGitHub: https://github.com/RobinCarvajal\nE-mail: Robin.Carvajal@glasgow.ac.uk"
+  }
+]

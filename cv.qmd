@@ -1,0 +1,96 @@
+---
+title: "Curriculum Vitae"
+page-layout: full
+---
+
+# Overview
+
+- [Professional Experience](#profesional-experience)
+
+- [Education](#education)
+
+- [Prices and awards](#prices-and-awards)
+
+- [Publications](#publications)
+
+
+## Profesional Experience
+
+**Bioinformatician**
+
+<!-- uofg -->
+<div class="cv-row">
+  <div><em>School of Infection & Immunity, University of Glasgow</em></div>
+  <div class="cv-date">2024–Present</div>
+</div>
+
+- Developed advanced pipelines and methods for single-cell and spatial transcriptomics datasets (CosMx), tailored to study neuroinflammation.
+- Investigated gene expression differences caused by inflammation at the cell-type, regional, and niche levels using cutting-edge spatial transcriptomics technology.
+- Collaborated with wet lab researchers to ensure high-quality outputs and integrative analysis of small, high-value tissue samples.
+
+**Demonstrator in Bioinformatics**
+
+<!-- bsi -->
+<div class="cv-row">
+  <div><em>British Society for Immunology</em></div>
+  <div class="cv-date">2025–Present</div>
+</div>
+
+<!-- uofg -->
+<div class="cv-row">
+  <div><em>School of Infection & Immunity, University of Glasgow</em></div>
+  <div class="cv-date">2023–2024</div>
+</div>
+
+- Mentored students in R and Python programming, Linux shell scripting, and omics data analysis.
+- Conducted tutorials on data visualization and statistical analysis for bioinformatics research.
+
+**Intern in Genetics Research**
+
+<!-- uofg -->
+<div class="cv-row">
+  <div><em>School of Molecular Biosciences, University of Glasgow</em></div>
+  <div class="cv-date">09/2022–03/2023</div>
+</div>
+
+- Analysed genomic structural variations using long-read sequencing technologies, including Oxford Nanopore NGS.
+- Leveraged genetic expertise to provide unique insights into sequencing data, connecting findings to broader biological implications.
+
+## Education
+
+<!-- msc bioinformatics -->
+<div class="cv-row">
+  <div><strong>MSc. Bioinformatics.</strong> University of Glasgow </div>
+  <div class="cv-date">2023–2024</div>
+</div>
+
+*Distinction*
+
+<!-- bsc genetics -->
+<div class="cv-row">
+  <div><strong>BSc. Genetics.</strong> University of Glasgow </div>
+  <div class="cv-date">2019–2023</div>
+</div>
+
+*Honours of the Second Class (division I)*
+
+## Prices and awards
+
+<!-- senescyt -->
+<div class="cv-row">
+  <div><strong>Senescyt</strong></div>
+  <div class="cv-date">2019–2023</div>
+</div>
+
+Ecuadorian Government Full Scholarship for scoring in the top 1% on Ecuador’s National Higher Education Entrance Exam (worth USD 250K) to study at the *University of Glasgow*.
+
+## Publications
+
+- Gardner-Stephen, K., Carvajal-Quisilema, R.J., et al. (2025) Neuroinflammation driven by TLR7 activation in mice [Preprint]. bioRxiv. doi:10.1101/2025.04.25.650583v1. [URL](https://doi.org/10.1101/2025.04.25.650583)
+
+- Carvajal-Quisilema, R. J., et al. (2026). Expansion of lymphoid structures in end-stage cystic fibrosis lung revealed by spatial transcriptomics [Manuscript in preparation]
+
+- Gray, R., Carvajal-Quisilema, R. J. (2026). Cellular sources of calprotectin extend beyond neutrophils, revealed by spatial transcriptomics [Manuscript in preparation]
+
+- Carvajal-Quisilema, R. J. (2026). SubsetMask: a lightweight toolkit for interactive, coordinatebased sub-setting and annotation of spatial transcriptomics data [Manuscript in preparation]. [URL](https://doi.org/10.5281/zenodo.18516798)
+
